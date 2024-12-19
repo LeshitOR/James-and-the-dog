@@ -1,0 +1,30 @@
+html{
+    background-color: gray;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 50px 80px;
+}
+
+.btn{
+    padding: 100px 200px;
+    border: none;
+    border-radius: 200px;
+    color: gray;
+    font-size: 200px;
+    letter-spacing: 20px;
+}
+
+.paragraph{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
